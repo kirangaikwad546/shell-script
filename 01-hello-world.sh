@@ -1,1 +1,3 @@
-This is the sample script
+ #!/in/bash
+
+ echo "Hello, I am learing Devops"
